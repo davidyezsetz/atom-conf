@@ -1,0 +1,13 @@
+color-picker
+emmet
+git-plus
+grunt-runner
+keybinding-cheatsheet
+linter
+merge-conflicts
+minimap
+pigments
+run-command
+symbols-tree-view
+travis-ci-status
+vim-mode
