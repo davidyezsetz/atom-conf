@@ -7,5 +7,7 @@
 | `ctrl-alt-t`      | Toggle grunt output
 | `cmd-k, left/right/up/down` | Split pane left/right/up/down 
 | `cmd-k, cmd-left/right/up/down` | Focus pane left/right/up/down 
+| `cmd-k, cmd-0`    | Unfold all
+| `cmd-k, cmd-1-9`  | Fold at indentation level 1-9
 
 
